@@ -53,7 +53,7 @@ Este projeto utiliza a comunicação serial para controlar LEDs RGB e um buzzer 
 
 ## Vídeo Demonstrativo
 Adicione aqui o link para o vídeo de demonstração do projeto:
-[https://drive.google.com/file/d/1IHV75V65DGmhS8Nq8Ut0W0kyzodRiMeA/view?usp=sharing](#)
+[https://drive.google.com/file/d/1IHV75V65DGmhS8Nq8Ut0W0kyzodRiMeA/view?usp=sharing](https://drive.google.com/file/d/1IHV75V65DGmhS8Nq8Ut0W0kyzodRiMeA/view?usp=sharing)
 
 ## Licença
 Este projeto está sob a licença MIT. Você é livre para modificar e usar o código conforme necessário, desde que mantenha a referência ao autor original.
