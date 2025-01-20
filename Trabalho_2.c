@@ -67,7 +67,7 @@ int main() {
     
     while (1) {
         printf("Digite e obtenha as saídas: (RED, BLUE, GREEN, WHITE, OFF, BUZZER): ");
-        scanf(" %s", &p);
+        scanf(" %s", p);
 
         if (strcmp(p, "RED") == 0) {
             put(1, 0, 0);
