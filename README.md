@@ -51,10 +51,6 @@ Este projeto utiliza a comunicação serial para controlar LEDs RGB e um buzzer 
 - Certifique-se de que o monitor serial esteja configurado corretamente para comunicar-se com a placa Raspberry Pi Pico W.
 - Utilize uma fonte de alimentação confiável para garantir o funcionamento adequado dos LEDs e do buzzer.
 
-## Vídeo Demonstrativo
-Adicione aqui o link para o vídeo de demonstração do projeto:
-[https://drive.google.com/file/d/1IHV75V65DGmhS8Nq8Ut0W0kyzodRiMeA/view?usp=sharing](https://drive.google.com/file/d/1IHV75V65DGmhS8Nq8Ut0W0kyzodRiMeA/view?usp=sharing)
-
 ## Licença
 Este projeto está sob a licença MIT. Você é livre para modificar e usar o código conforme necessário, desde que mantenha a referência ao autor original.
 
